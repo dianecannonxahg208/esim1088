@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm dianecannonxahg208
 
-<!--
-**dianecannonxahg208/dianecannonxahg208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 🏏 Passionate about technical writing 🎬 🏏
 
-Here are some ideas to get you started:
+## About Me
+🎳 🚵 🚴 🚵 Interested in content creation 🎳 🚵 🚴 🚵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥋 🛼 🚀 🔥 Curious about tools 🥋 🛼 🚀 🔥
+
+### Fun Facts
+🎯 🎱 🎤 ✨ Improving my skills in technologies 🎯 🎱 🎤 ✨
+
+---
+🚀 🏒 🚴 🎯 🎭 Thanks for visiting my profile! 🏓 🎸 🛼 🌍 🛶
